@@ -62,7 +62,7 @@ prompt-toolkit
 protobuf   
 pyarrow   
 pycparser  
-pydeck   b
+pydeck   
 Pygments   
 pylint   
 pyparsing  
